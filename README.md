@@ -6,4 +6,6 @@ This is useful for example in case that we want to create a report containing on
 
 It's all done with JavaScript remoting. All the JavaScript code is in the CascadeToggle.resource file.
 
-The buttons to add to the Account/Contact/Opportunity objects have already been created and only need to be added to the layouts
+The buttons to add to the Account/Contact/Opportunity objects have already been created and only need to be added to the layouts.
+
+[ ![Codeship Status for ceiroa/cascade-toggle](https://www.codeship.io/projects/a2bbdfb0-259c-0132-5601-76bec1757a7f/status)](https://www.codeship.io/projects/37228)
